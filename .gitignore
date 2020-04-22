@@ -474,3 +474,4 @@ logs
 *.xls
 *.pyc
 *.tar.gz
+data
